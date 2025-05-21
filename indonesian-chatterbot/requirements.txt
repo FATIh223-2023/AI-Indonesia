@@ -1,0 +1,5 @@
+ChatterBot==1.0.5
+PyYAML==5.4.1
+nltk==3.6.3
+wikipedia
+gtts
